@@ -1,5 +1,5 @@
 import java.util.*;
-public class set12 {
+public class set17 {
     public static void main(String[] args) {
         int i,flag=0;
          Scanner in=new Scanner(System.in);
