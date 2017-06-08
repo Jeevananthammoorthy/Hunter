@@ -8,7 +8,6 @@ public class set12 {
     for(i=0;i<size;i++) 
         arr[i]=in.nextInt();
     Arrays.sort(arr);
-    System.out.print(Arrays.toString(arr));
     for(i=1;i<size;i+=2){
         if(arr[i-1]!=arr[i]){
             flag=1;
